@@ -1,0 +1,18 @@
+<project xsi:schemaLocation="http://maven.apache.org/DECORATION/1.7.0 http://maven.apache.org/xsd/decoration-1.7.0.xsd" name="photowhale" xmlns="http://maven.apache.org/DECORATION/1.7.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.5</version>
+  </skin>
+  <publishDate />
+  <version />
+  <body>
+    <menu name="UpgradingDave's Encryption Library">
+      <item name="What is this?" href="index.html"/>
+      <item name="How to use?" href="how.html"/>
+      <item name="Development" href="dev.html"/>
+      <item name="Change Log" href="change.html"/>
+    </menu>
+  </body>
+</project>
